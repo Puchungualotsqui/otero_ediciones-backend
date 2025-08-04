@@ -74,3 +74,13 @@ Example:
 ```
 GET /catalogo?nivel=Primaria&materia=Literatura&startIndex=0
 ```
+
+## 📄 License
+
+This project is licensed under the  
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**
+
+You may view the source, but you may not modify, redistribute, or use it commercially.
+
+© 2025 Otero Ediciones  
+[Read full license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
